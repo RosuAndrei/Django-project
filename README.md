@@ -23,4 +23,4 @@ You will see the server will print out the url for your local project: Starting 
 http://127.0.0.1:8000/
 Copy the url and paste it in any browser. Access the Django Admin at the url: http://127.0.0.1:8000/admin/ and
 login using the credentials you setup on step 3 
- >admin login http://127.0.0.1:8000/admin/login/ 
+ Admin login http://127.0.0.1:8000/admin/login/ 
