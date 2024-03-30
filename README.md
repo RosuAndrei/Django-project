@@ -13,7 +13,7 @@ You should see that your command-line prompt is now prefixed with (demo):(demo) 
 2. Run the DB migrations: (Make sure you change your path first: >cd blog - your path should end with
 ......\django-blog\blog>)
 >python manage.py migrate
-> 3. Configure your django superuser for your local server setup:
+3. Configure your django superuser for your local server setup:
 >python manage.py createsuperuser
 You will be prompted to provide the username, email address and a password.
 4. Start the local django server:
